@@ -1,6 +1,6 @@
 # Curso Javascript - CoderHouse
 *Profe Omar J. Manias*
-[LinkedIn](linkedin.com/in/omar-jesus-manias)
+[LinkedIn](https://www.linkedin.com/in/omar-jesus-manias)
 
 ## Detalle de clases
 
